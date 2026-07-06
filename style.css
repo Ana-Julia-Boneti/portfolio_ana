@@ -12,3 +12,16 @@ header{
     background-color: rgb(98, 156, 196);
     height: 4em;
 }
+
+header{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-radius: 18px;
+}
+
+main{
+    background-color: blueviolet;
+}
