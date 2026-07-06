@@ -6,6 +6,8 @@
 body{
     background-color: rgb(188, 218, 230);
     font-size: 16px;
+    color: aliceblue;
+    font-family: sans-serif ;
 }
 
 header{
