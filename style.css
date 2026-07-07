@@ -1,6 +1,5 @@
 *{
 
-
 }
 
 body{
@@ -8,6 +7,10 @@ body{
     font-size: 16px;
     color: rgb(0, 0, 0);
     font-family: sans-serif ;
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 header{
@@ -26,4 +29,9 @@ img{
 
 main{
     background-color: rgb(192, 134, 156);
+}
+
+img{
+    width: 20%;
+    border-radius: 18px;
 }
