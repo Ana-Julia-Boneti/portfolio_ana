@@ -1,33 +1,33 @@
-*{
+* {}
 
-}
-
-body{
+body {
     background-color: rgb(221, 168, 217);
     font-size: 16px;
     color: rgb(0, 0, 0);
-    font-family: sans-serif ;
+    font-family: sans-serif;
 
     min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
-header{
+header {
     background-color: rgb(196, 98, 147);
     height: 4em;
 }
 
-header{
+header {
     text-align: center;
 }
 
-img{
-    width: 10%;
+img {
+
     border-radius: 18px;
+
+    max-width: 100%;
+    height: auto;
 }
 
-main{
+main {
     background-color: rgb(192, 134, 156);
 }
-
