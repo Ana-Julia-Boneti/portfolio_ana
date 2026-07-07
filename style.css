@@ -23,7 +23,7 @@ header{
 }
 
 img{
-    width: 50%;
+    width: 30%;
     border-radius: 18px;
 }
 
@@ -31,7 +31,3 @@ main{
     background-color: rgb(192, 134, 156);
 }
 
-img{
-    width: 20%;
-    border-radius: 18px;
-}
