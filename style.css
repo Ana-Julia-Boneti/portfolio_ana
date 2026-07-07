@@ -30,4 +30,11 @@ img {
 
 main {
     background-color: rgb(192, 134, 156);
+    flex: 1;
+}
+
+section{
+    margin: 10%;
+    display: flex;
+    
 }
